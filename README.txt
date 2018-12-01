@@ -30,11 +30,7 @@ also provides several examples. Please see the provided Jupyter Notebook for all
 on how to run the functions and which output is given.
 
 %%-----------------------------------------------------------------------------------------%%
-HELP
-For any problems with the script, please do not hessitate to contact us, we will try to
-help as quickly as possible: jeroen.vanlidth@imtlucca.it
-If you are already familiar with Python and would prefer a pure Python implementation
-of the algorithm, without Jupyter notebook, please ask us.
+This notebook is supplied as is. For any comments please email to jeroenvldj@imtlucca.it
 
 
 
