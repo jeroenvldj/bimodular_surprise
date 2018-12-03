@@ -5,9 +5,9 @@ This code is for the **detection of bimodular structures in networks**, such as 
 <p align="center"><img width=90% src="https://github.com/jeroenvldj/bimodular_surprise/blob/master/Images/bimodular_structures.png"></p>
 
 ## Method
-The bimodular surprise provides a measure to detect significant bimodular partitions in *binary* *directed* and *undirected* networks. It is based on the interplay of edge-densities within the clusters and between the clusters. To this end a hypergeometric distribution function is used is similar fashion to [surprise](https://www.nature.com/articles/srep01060) for traditional community detection on networks. 
+The bimodular surprise provides a measure to detect significant bimodular partitions in *binary*, *directed* and *undirected* networks. It is based on the interplay of edge-densities within the clusters and between the clusters. To this end a hypergeometric distribution function is used is similar fashion to [surprise](https://www.nature.com/articles/srep01060) for traditional community detection on networks. 
 
-## Paper - full details on the method
+### Paper - full details on the method
 The details and performance of this method can be found in this open-access [paper](https://arxiv.org/abs/1810.04717). 
 [![paper](https://github.com/jeroenvldj/bimodular_surprise/blob/master/Images/arxiv_article2.png)](https://arxiv.org/abs/1810.04717)
 
@@ -15,7 +15,7 @@ The details and performance of this method can be found in this open-access [pap
 The code for the bimodular surprise calculation and the heuristic for detection is provided in a jupyter notebook (for now) running on Python 3.5. This notebook contains all explanations about the method, the functions and working examples to show how to use the code. 
 
 ## Example - Running the code
-The provided jupyter notebook is written to be self-explanatory and self-contained. Once the provided functions in the notebook are loaded, running the detection algorithm on a network is as simple as:
+The provided `jupyter notebook` is written to be self-explanatory and *self-contained*. Once the provided functions in the notebook are loaded, running the detection algorithm on a network is as simple as:
   1. Loading a network/graph, either as the corresponding adjacency matrix in `numpy.array` format or as a `NetworkX.Graph`
 ```python
 G_karate = nx.karate_club_graph() 
