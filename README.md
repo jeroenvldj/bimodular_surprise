@@ -22,11 +22,11 @@ G_karate = nx.karate_club_graph()
 ```
   2. Running the detection heuristic
 ```python
-partitioning, significance = run_surprise(G=G_karate, is_directed=False)
+revealed_partition, significance = run_surprise(G=G_karate, is_directed=False)
 ```
   3. The revealed partition can be visualized with (node color indicates the two revealed partitions)
 ```python
-nx.draw(G=G_karate, node_color=partitioning)
+nx.draw(G=G_karate, node_color=revealed_partition)
 ```
 <p align="center"><img width=40% src="https://github.com/jeroenvldj/bimodular_surprise/blob/master/Images/karate.png"></p>
 
