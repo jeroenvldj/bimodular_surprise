@@ -16,7 +16,7 @@ The details and performance of this method can be found in this open-access [pap
 [![paper](https://github.com/jeroenvldj/bimodular_surprise/blob/master/Images/arxiv_article2.png)](https://arxiv.org/abs/1810.04717)
 
 ## Code
-The code for the bimodular surprise calculation and the heuristic for detection is provided in a jupyter notebook (for now) running on Python 3.5. This notebook contains all explanations about the method, the functions and working examples to show how to use the code. 
+The code for the bimodular surprise calculation and the heuristic for detection is provided in a `jupyter notebook` (for now) running on `Python 3.5`. This notebook contains all explanations about the method, the functions and working examples to show how to use the code. 
 
 ## Example - Running the code
 The provided `jupyter notebook` is written to be self-explanatory and *self-contained*. Once the provided functions in the notebook are loaded, running the detection algorithm on a network is as simple as:
