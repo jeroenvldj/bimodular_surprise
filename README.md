@@ -35,7 +35,7 @@ nx.draw(G=G_karate, node_color=revealed_partition)
 <p align="center"><img width=40% src="https://github.com/jeroenvldj/bimodular_surprise/blob/master/Images/karate.png"></p>
 
 ## Notes
-Please see the jupyter notebook for more details. 
+**Please see the jupyter notebook for more details.**
 The extention of this method to weighted networks is in progress. 
 
 MIT © Jeroen van Lidth de Jeude - [IMT School For Advanced Studies Lucca](https://www.imtlucca.it/)
