@@ -7,11 +7,12 @@
    xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
    xmlns:svg="http://www.w3.org/2000/svg"
    xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="210mm"
-   height="297mm"
-   viewBox="0 0 210 297"
+   width="378.93356mm"
+   height="141.17938mm"
+   viewBox="0 0 378.93356 141.17938"
    version="1.1"
    id="svg8"
    inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
@@ -794,9 +795,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.98994949"
-     inkscape:cx="628.73012"
-     inkscape:cy="496.95843"
+     inkscape:zoom="0.7"
+     inkscape:cx="486.58409"
+     inkscape:cy="251.98729"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -813,21 +814,22 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
      inkscape:label="Layer 1"
      inkscape:groupmode="layer"
-     id="layer1">
+     id="layer1"
+     transform="translate(-17.577054,-0.56233371)">
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4749-94"
        cx="47.211327"
        cy="23.171972"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -836,7 +838,7 @@
        cx="47.30072"
        cy="54.512554"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -845,7 +847,7 @@
        cx="64.703026"
        cy="54.457195"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -854,7 +856,7 @@
        cx="55.97422"
        cy="38.960178"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -863,7 +865,7 @@
        cx="65.013191"
        cy="23.230276"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -872,7 +874,7 @@
        cx="73.741051"
        cy="38.926762"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -881,7 +883,7 @@
        id="path4850"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -890,7 +892,7 @@
        id="path4850-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -899,7 +901,7 @@
        id="path4850-2-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -908,7 +910,7 @@
        id="path4850-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -917,7 +919,7 @@
        id="path4850-3-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -926,7 +928,7 @@
        id="path4850-2-9-8-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -935,7 +937,7 @@
        cx="39.012089"
        cy="39.055264"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -944,7 +946,7 @@
        id="path4850-2-9-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -953,7 +955,7 @@
        id="path4850-4-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -962,7 +964,7 @@
        id="path4850-2-9-8-0-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -971,7 +973,7 @@
        cx="35.145943"
        cy="5.5425792"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -980,7 +982,7 @@
        cx="53.854809"
        cy="3.404424"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -989,7 +991,7 @@
        cx="19.777946"
        cy="34.274055"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -998,7 +1000,7 @@
        cx="20.312485"
        cy="20.37604"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1007,7 +1009,7 @@
        cx="56.393871"
        cy="69.419998"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1016,7 +1018,7 @@
        cx="91.807083"
        cy="30.665915"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1025,7 +1027,7 @@
        id="path4850-4-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1034,7 +1036,7 @@
        id="path4850-4-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1043,7 +1045,7 @@
        id="path4850-2-9-7-4"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1052,7 +1054,7 @@
        id="path4850-2-9-7-5"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1061,7 +1063,7 @@
        id="path4850-2-9-7-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1070,7 +1072,7 @@
        id="path4850-2-9-7-41"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1079,7 +1081,7 @@
        cx="173.99248"
        cy="12.89249"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1088,7 +1090,7 @@
        cx="170.78523"
        cy="26.523237"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1097,7 +1099,7 @@
        cx="185.88596"
        cy="30.131378"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1106,7 +1108,7 @@
        cx="177.33333"
        cy="40.822159"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1115,7 +1117,7 @@
        cx="186.8214"
        cy="53.517464"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1124,7 +1126,7 @@
        cx="129.62572"
        cy="25.587793"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1133,7 +1135,7 @@
        cx="127.22029"
        cy="41.223061"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1142,7 +1144,7 @@
        cx="141.38557"
        cy="48.038437"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1151,7 +1153,7 @@
        cx="143.52374"
        cy="62.871895"
        r="1.7008928"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1160,7 +1162,7 @@
        id="path4850-4-3-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1169,7 +1171,7 @@
        id="path4850-4-3-0-9"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1178,7 +1180,7 @@
        id="path4850-4-3-0-95"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1187,7 +1189,7 @@
        id="path4850-4-3-0-3"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1196,7 +1198,7 @@
        id="path4850-4-3-0-37"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1205,7 +1207,7 @@
        id="path4850-4-3-0-1"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1214,7 +1216,7 @@
        id="path4850-4-3-0-93"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1223,7 +1225,7 @@
        id="path4850-4-3-0-0"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1232,7 +1234,7 @@
        id="path4850-4-3-0-99"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1241,7 +1243,7 @@
        id="path4850-4-3-0-7"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
@@ -1250,7 +1252,7 @@
        id="path4850-4-3-0-2"
        inkscape:connector-curvature="0"
        sodipodi:nodetypes="cc"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <circle
@@ -1259,7 +1261,7 @@
        cx="56.034969"
        cy="38.558777"
        r="25.222528"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
@@ -1270,7 +1272,7 @@
        rx="11.125853"
        ry="31.947277"
        transform="matrix(0.97373009,-0.22770533,0.33570989,0.94196543,0,0)"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <ellipse
@@ -1281,7 +1283,7 @@
        rx="11.125853"
        ry="31.947277"
        transform="matrix(0.97373009,-0.22770533,0.33570989,0.94196543,0,0)"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1291,7 +1293,7 @@
        height="22.424055"
        x="33.55854"
        y="96.704674"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1301,7 +1303,7 @@
        height="22.424055"
        x="55.982597"
        y="96.704674"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1311,7 +1313,7 @@
        height="22.424055"
        x="33.55854"
        y="119.12871"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1321,7 +1323,7 @@
        height="22.424055"
        x="55.982597"
        y="119.12871"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1331,7 +1333,7 @@
        height="22.424055"
        x="136.61488"
        y="96.704659"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1341,7 +1343,7 @@
        height="22.424055"
        x="159.03862"
        y="96.704659"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1351,7 +1353,7 @@
        height="22.424055"
        x="136.61488"
        y="119.12871"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <rect
@@ -1361,7 +1363,7 @@
        height="22.424055"
        x="159.03862"
        y="119.12871"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <text
@@ -1370,28 +1372,28 @@
        x="20.312483"
        y="84.231964"
        id="text14330"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan14328"
          x="20.312483"
          y="84.231964"
-         style="stroke-width:0.26458332px">Core-periphery</tspan></text>
+         style="stroke-width:0.26458332px;-inkscape-font-specification:'Palatino Linotype, Normal';font-family:'Palatino Linotype';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.58333333px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">Core-periphery</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
        x="140.85103"
        y="85.835571"
        id="text14334"
-       inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\bimodular_structures.png"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96"><tspan
          sodipodi:role="line"
          id="tspan14332"
          x="140.85103"
          y="85.835571"
-         style="stroke-width:0.26458332px">Bipartite</tspan></text>
+         style="stroke-width:0.26458332px;-inkscape-font-specification:'Palatino Linotype, Normal';font-family:'Palatino Linotype';font-weight:normal;font-style:normal;font-stretch:normal;font-variant:normal;font-size:10.58333333px;text-anchor:start;text-align:start;writing-mode:lr;font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal">Bipartite</tspan></text>
     <circle
        style="opacity:1;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:#000000;stroke-width:1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1;paint-order:normal"
        id="path4749-94-17"
@@ -1591,7 +1593,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994,0.96499997;stroke-opacity:1;marker-start:url(#Arrow2Sstart-70-4-6);marker-end:url(#Arrow2Send-0-7-2);stroke-dashoffset:0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994, 0.96499997;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Sstart-70-4-6);marker-end:url(#Arrow2Send-0-7-2)"
        d="m 121.55048,212.04489 13.48033,-6.89807"
        id="path4850-4-3-8"
        inkscape:connector-curvature="0"
@@ -1600,7 +1602,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994,0.96499997;stroke-opacity:1;marker-start:url(#Arrow2Sstart-70-3-5);marker-end:url(#Arrow2Send-0-5-0);stroke-dashoffset:0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994, 0.96499997;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Sstart-70-3-5);marker-end:url(#Arrow2Send-0-5-0)"
        d="m 67.385328,208.63401 14.232108,3.74178"
        id="path4850-4-7-1"
        inkscape:connector-curvature="0"
@@ -1609,7 +1611,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.48249998,0.48249998;stroke-opacity:1;marker-start:url(#Arrow2Sstart-2-3-4-2-0);stroke-dashoffset:0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:0.48249998, 0.48249998;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Sstart-2-3-4-2-0)"
        d="m 65.051604,204.78181 0.356604,-9.40438"
        id="path4850-2-9-7-4-1"
        inkscape:connector-curvature="0"
@@ -1618,7 +1620,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994,0.96499997;stroke-opacity:1;marker-start:url(#Arrow2Sstart-2-3-4-4-0);stroke-dashoffset:0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994, 0.96499997;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Sstart-2-3-4-4-0)"
        d="M 90.738208,194.37128 81.413921,180.60842"
        id="path4850-2-9-7-5-5"
        inkscape:connector-curvature="0"
@@ -1627,7 +1629,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994,0.96499997;stroke-opacity:1;marker-start:url(#Arrow2Sstart-2-3-4-6-5);stroke-dashoffset:0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994, 0.96499997;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Sstart-2-3-4-6-5)"
        d="m 98.106878,179.52189 -4.9665,15.61931"
        id="path4850-2-9-7-3-1"
        inkscape:connector-curvature="0"
@@ -1636,7 +1638,7 @@
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
     <path
-       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994,0.96499997;stroke-opacity:1;marker-start:url(#Arrow2Sstart-2-3-4-3-4);stroke-dashoffset:0"
+       style="fill:none;fill-rule:evenodd;stroke:#000000;stroke-width:0.96499997;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:1.92999994, 0.96499997;stroke-dashoffset:0;stroke-opacity:1;marker-start:url(#Arrow2Sstart-2-3-4-3-4)"
        d="m 99.930118,240.35324 -6.43648,-10.70675"
        id="path4850-2-9-7-41-8"
        inkscape:connector-curvature="0"
@@ -1755,5 +1757,472 @@
        inkscape:export-filename="C:\Users\Jeroen\Downloads\Core-periphery_detection\types_of_links.png"
        inkscape:export-xdpi="96"
        inkscape:export-ydpi="96" />
+    <image
+       y="58.405502"
+       x="216.31161"
+       id="image5265"
+       xlink:href="data:image/png;base64,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
+"
+       preserveAspectRatio="none"
+       height="44.240479"
+       width="180.19901"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:125%;font-family:'Myriad Pro';-inkscape-font-specification:'Myriad Pro, Normal';text-align:start;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       x="284.57104"
+       y="45.554356"
+       id="text14334-2"
+       inkscape:export-filename="C:\Users\Jeroen\Desktop\bimodular_structures.png"
+       inkscape:export-xdpi="96"
+       inkscape:export-ydpi="96"><tspan
+         sodipodi:role="line"
+         id="tspan14332-5"
+         x="284.57104"
+         y="45.554356"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;font-family:'Palatino Linotype';-inkscape-font-specification:'Palatino Linotype, Normal';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;writing-mode:lr-tb;text-anchor:start;stroke-width:0.26458332px">Minimize:</tspan></text>
   </g>
 </svg>
