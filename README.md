@@ -1,5 +1,9 @@
 <p align="center"><img width=60% src="https://github.com/jeroenvldj/bimodular_surprise/blob/master/Images/imt_logo_plus_networks.png"></p>
 
+&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/python-3.5%2B-blue.svg)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+
 ## Detection of Bimodular Network Structures by Surprise 
 This code is for the **detection of bimodular structures in networks**, such as *core-periphery* and *bipartite* ones, with the bimodular surprise measure. 
 <p align="center"><img width=90% src="https://github.com/jeroenvldj/bimodular_surprise/blob/master/Images/bimodular_structures.png"></p>
