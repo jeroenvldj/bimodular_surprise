@@ -5,7 +5,7 @@ This code is for the **detection of bimodular structures in networks**, such as 
 <p align="center"><img width=90% src="https://github.com/jeroenvldj/bimodular_surprise/blob/master/Images/bimodular_structures.png"></p>
 
 ## Method
-The bimodular surprise provides a measure to detect significant bimodular partitions in *binary*, *directed* and *undirected* networks. It is based on the interplay of edge-densities within the clusters and between the clusters. To this end a hypergeometric distribution function is used is similar fashion to [surprise for traditional community detection](https://www.nature.com/articles/srep01060) on networks. 
+Bimodular surprise provides a measure to detect significant bimodular partitions in *binary*, *directed* and *undirected* networks. It is based on the interplay of edge-densities within the clusters and between the clusters. To this end a hypergeometric distribution function is used in similar fashion to [surprise for traditional community detection](https://www.nature.com/articles/srep01060) on networks. 
 
 ### Paper - full details on the method
 The details and performance of this method can be found in this open-access [paper](https://arxiv.org/abs/1810.04717). 
